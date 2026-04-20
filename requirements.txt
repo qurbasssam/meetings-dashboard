@@ -1,6 +1,6 @@
 streamlit
 pandas
-gspread
-oauth2client
 plotly
 streamlit-gsheets-connection
+gspread
+google-auth
